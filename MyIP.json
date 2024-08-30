@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ip138.com",
+        "whoer.com",
+        "ip2location.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".ip138.com",
+        ".whoer.com",
+        ".ip2location.com"
+      ]
+    }
+  ],
+  "version": 1
+}

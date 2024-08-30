@@ -1,0 +1,63 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "douyin.com",
+        "douyincdn.com",
+        "douyincdn.com",
+        "byteimg.com",
+        "bytetos.com",
+        "bytetcc.com",
+        "bytedance.com",
+        "bytescm.com",
+        "ibytedapm.com",
+        "yhgfb-cn-static.com",
+        "bytednsdoc.com",
+        "douyinstatic.com",
+        "snssdk.com",
+        "bytefcdnrd.com",
+        "feelgood.cn",
+        "bytegoofy.com",
+        "googleapis.com",
+        "immersivetranslate.com",
+        "zijieapi.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "douyin",
+        "douyincdn",
+        "byteimg",
+        "bytetos",
+        "bytedance",
+        "bytefcdnrd",
+        "feelgood",
+        "ibytedapm",
+        "yhgfb-cn-static",
+        "bytetcc",
+        "bytescm",
+        "bytegoofy",
+        "bytednsdoc",
+        "douyinstatic"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".douyin.com",
+        ".tiktok.com",
+        ".douyincdn.com",
+        ".bytedance.com",
+        ".ibytedapm.com",
+        ".feelgood.cn",
+        ".byteimg.com",
+        ".bytefcdnrd.com",
+        ".yhgfb-cn-static.com",
+        ".bytescm.com",
+        ".bytetos.com",
+        ".bytetcc.com",
+        ".douyinstatic.com"
+      ]
+    }
+  ],
+  "version": 1
+}
